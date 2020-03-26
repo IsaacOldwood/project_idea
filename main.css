@@ -3,16 +3,17 @@
     color: black;
     vertical-align: center;
     text-align: center;
+    margin: auto;
 }
 
-.homepage-header{
+.homepage-navbar{
     font-size: 22px;
     font-family: Georgia, serif;
     width: 100%;
     vertical-align: center;
     text-align: center;
     position: relative;
-    margin:0 auto;
+    margin: auto;
 }
 
 .centering-header{
@@ -22,6 +23,10 @@
     width: 100%;
     background-color: #954711;
     text-align: center;
+}
+
+.space-for-header{
+    margin-top: 50px;
 }
 .centering-container{
     max-width: 960px;
