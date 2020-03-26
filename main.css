@@ -38,6 +38,13 @@ body{
     display: inline-block
 }
 
+.buisness-donate-button{
+    margin: auto;
+    display: inline-block;
+    margin-left:auto; 
+    margin-right:0;
+}
+
 .buisness-image{
     margin-right: 5px;
 }
