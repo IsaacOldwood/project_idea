@@ -38,13 +38,13 @@ body{
 }
 
 .buisness-image{
-    padding-right: 5px;
+    margin-right: 5px;
 }
 
 .buisness-title{
-    padding: 10px;
+    margin: 2px;
 }
 
 .buisness-text{
-    padding-right: 200px;
+    margin-right: 200px;
 }
