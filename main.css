@@ -36,3 +36,15 @@ body{
 .buisness-donate-button{
     direction: rtl;
 }
+
+.buisness-image{
+    padding-right: 5px;
+}
+
+.buisness-title{
+    padding: 10px;
+}
+
+.buisness-text{
+    padding-right: 200px;
+}
