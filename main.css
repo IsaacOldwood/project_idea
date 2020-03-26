@@ -38,12 +38,10 @@ body{
     position: absolute;
     right: 0px;
     margin: auto;
-    display:inline-block;
 }
 
 .buisness-image{
     margin-right: 5px;
-    display:inline-block;
 }
 
 .buisness-title{
@@ -53,5 +51,4 @@ body{
 
 .buisness-text{
     margin: auto;
-    display:inline-block;
 }
