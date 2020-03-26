@@ -40,7 +40,7 @@ body{
 .buisness-container{
     background-color: whitesmoke;
     color: black;
-    height: 160px;
+    min-height: 160px;
 }
 
 .buisness-donate-button{
