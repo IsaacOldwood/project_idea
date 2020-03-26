@@ -35,6 +35,7 @@ body{
 
 .buisness-donate-button{
     direction: rtl;
+    float: right;
 }
 
 .buisness-image{
