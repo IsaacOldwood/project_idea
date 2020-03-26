@@ -23,5 +23,11 @@
 
 body{
     font-family: Georgia, serif;
-    background-color: peru;
+    background-color: #954711;
+    color: black;
+}
+
+.buisness-container{
+    background-color: whitesmoke;
+    color: black;
 }
