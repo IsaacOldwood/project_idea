@@ -34,10 +34,8 @@ body{
     overflow: hidden;
 }
 
-.buisness-donate-button{
-    position: absolute;
-    right: 0px;
-    margin: auto;
+.buisness-div{
+    display: inline-block
 }
 
 .buisness-image{
