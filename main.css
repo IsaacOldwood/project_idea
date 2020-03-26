@@ -3,7 +3,7 @@
     color: black;
     vertical-align: center;
     text-align: center;
-    margin: auto;
+    margin-top: 10px;
 }
 
 .homepage-navbar{
@@ -13,7 +13,7 @@
     vertical-align: center;
     text-align: center;
     position: relative;
-    margin: auto;
+    margin-bottom: 5px;
 }
 
 .centering-header{
@@ -26,7 +26,7 @@
 }
 
 .space-for-header{
-    margin-top: 50px;
+    margin-top: 150px;
 }
 .centering-container{
     max-width: 960px;
