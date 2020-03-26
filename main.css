@@ -31,22 +31,27 @@ body{
     background-color: whitesmoke;
     color: black;
     height: 160px;
+    overflow: hidden;
 }
 
 .buisness-donate-button{
     position: absolute;
     right: 0px;
     margin: auto;
+    display:inline-block;
 }
 
 .buisness-image{
     margin-right: 5px;
+    display:inline-block;
 }
 
 .buisness-title{
-    margin: 2px;
+    margin-top: 3px;
+    margin-left: 2px;
 }
 
 .buisness-text{
     margin: auto;
+    display:inline-block;
 }
