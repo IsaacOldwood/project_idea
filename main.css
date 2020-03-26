@@ -33,6 +33,10 @@ body{
     height: 160px;
 }
 
+.buisness-donate-button{
+    margin: auto;
+}
+
 .buisness-image{
     margin-right: 5px;
 }
